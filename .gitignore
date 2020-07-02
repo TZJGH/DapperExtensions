@@ -3,3 +3,5 @@
 ################################################################################
 
 /DapperExtensions/Oracle.Dapper.Extensions/obj
+/.vs
+/DapperExtensions/.vs/DapperExtensions/v16
